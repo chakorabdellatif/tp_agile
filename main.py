@@ -2,3 +2,4 @@
 "def greet(name):"
 "   print(f'Bonjour, {name}!')"
 "print('Bienvenue dans notre programme Pthon')"
+"print('hello to hi')"
